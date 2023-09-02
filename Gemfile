@@ -73,3 +73,4 @@ end
 
 
 gem 'devise'
+gem 'thor', '0.19.1'
