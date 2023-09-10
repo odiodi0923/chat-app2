@@ -75,3 +75,6 @@ end
 gem 'devise'
 gem 'thor', '0.19.1'
 gem 'pry-rails'
+
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
